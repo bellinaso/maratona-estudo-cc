@@ -1,1 +1,3 @@
-# maratona-estudo-cc
+# Maratona de programação
+
+<p>Mais informações em breve...</p>
